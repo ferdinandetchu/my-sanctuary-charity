@@ -1,0 +1,53 @@
+*{
+  font-family: 'Playfair Display', serif !important;
+}
+  
+.display-2{
+	font-family: 'Playfair Display', serif !important;
+}
+.display-1{
+	font-family: 'Playfair Display', serif !important;
+}
+
+.row {
+	margin: 0px !important;
+}
+
+h1{
+  font-family: 'Playfair Display', serif;
+}
+
+.fe-app-max-width{
+	max-width: 1500px !important;
+}
+
+.fe-hero-title{
+	font-size: 50px;
+	font-style: oblique;
+	font-weight: 900;
+}
+
+.fe-about-hero-image{
+	-webkit-mask-image: linear-gradient(transparent, black);
+  mask-image: linear-gradient(transparent, black);   
+}
+
+.fe-hero-undeline-title{
+	text-decoration: underline;
+	text-decoration-color: #fed24d;
+}
+
+.fe-section-title{
+	font-size: 30px;
+	/* font-style: oblique; */
+	font-weight: 900;
+}
+
+.fe-hero-number-circle{
+	background-color: #fed24d;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	margin-top: -90px;
+	margin-left: 10px;
+}
